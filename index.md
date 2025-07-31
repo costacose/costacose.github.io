@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/costantino-cosentino-a69291134" target="_blank">
     <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" />
   </a>
-  <a href="mailto:costantino.cosentinoyour@protonmail.com">
+  <a href="mailto:costantino.cosentino@protonmail.com">
     <img src="/assets/icons/mail.svg" alt="Email" width="32" height="32" />
   </a>
 </div>
